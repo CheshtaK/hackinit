@@ -11,4 +11,15 @@ We use audio cues to guide the person to the correct or obstacle free path. In f
 
 We detect the obstacle and after detecting the object, navigation path are given to the user. For being economical we use a camera feature instead of relying on acquired help like guide dogs. We’ve used the Single Shot Detector (SSD) which provides a good balance between speed and accuracy since the project would work on real-time implementation. The COCO dataset is used for the objects. The code is written in python and tensorflow is used as machine learning backend. An IP camera is used to get live feed and process the result. This result is further compared and fed to a python file that takes in sensor data and processes the data. This result is then compared to threshold values and audio cues are provided.
 
-![alt-text](https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/finaloutput.gif)
+<img src="https://github.com/kapilbindal/hackinit/blob/master/results/finaloutput.gif" height="450">
+
+<img src="https://github.com/kapilbindal/hackinit/blob/master/results/continue.jpeg" height="450">
+<img src="https://github.com/kapilbindal/hackinit/blob/master/results/movright.jpeg" height="450">
+<img src="https://github.com/kapilbindal/hackinit/blob/master/results/stop.jpeg" height="450">
+
+
+## Business Strategy
+<br>
+<img src="https://github.com/kapilbindal/hackinit/blob/master/results/businessmodel.PNG" height="450">
+
+

@@ -3,3 +3,4 @@ ssd_inception_v2_coco_2017_11_17/
 output_video.avi
 ssd_inception_v2_coco_2017_11_17.tar.gz
 test_video.mp4
+.ipynb_checkpoints/
